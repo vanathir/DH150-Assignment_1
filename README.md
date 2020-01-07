@@ -31,7 +31,8 @@
 8. Aesthetic and minimalist design
      def: site should only include relavent information, and should be nice and easy to look at
      ex. light colors and minimal words on the screen
-     ex. 
+     ex. ![Aesthetic](https://user-images.githubusercontent.com/59623119/71936136-7271c680-315d-11ea-88a1-9593ee7a602d.png)
+
 
 9. Help users recognize, diagnose, and recover from errors
      def: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
