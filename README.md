@@ -31,13 +31,13 @@
 8. Aesthetic and minimalist design
      def: site should only include relavent information, and should be nice and easy to look at
      ex. light colors and minimal words on the screen
-     ex. ![Aesthetic](https://user-images.githubusercontent.com/59623119/71936136-7271c680-315d-11ea-88a1-9593ee7a602d.png)
+      ![Aesthetic](https://user-images.githubusercontent.com/59623119/71936136-7271c680-315d-11ea-88a1-9593ee7a602d.png)
 
 
 9. Help users recognize, diagnose, and recover from errors
      def: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
      ex. internet connection warning, 404 error
-     ex. ![404 error](https://user-images.githubusercontent.com/59623119/71935866-c5974980-315c-11ea-8671-7dd19d136874.png)
+      ![404 error](https://user-images.githubusercontent.com/59623119/71935866-c5974980-315c-11ea-8671-7dd19d136874.png)
      
 10. Help and documentation
       def: provide help and documentation, and it should be easy to navigate through the site
