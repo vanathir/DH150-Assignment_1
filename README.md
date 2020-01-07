@@ -31,7 +31,7 @@
 ##8. Aesthetic and minimalist design
      def: site should only include relavent information, and should be nice and easy to look at
      ex. light colors and minimal words on the screen
-     ex. ![Mejuri](https://images.app.goo.gl/LtD6CktazEwvrHS99)
+     ex. ![Mejuri]()
 
 ##9. Help users recognize, diagnose, and recover from errors
      def: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
