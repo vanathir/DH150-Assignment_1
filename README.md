@@ -3,12 +3,14 @@
 1. *Visibility of system status*
     > def: system should provide users visual feedback on the site and within a reasonable amount of time
     > ex. status bar, what page the user is on/ how many pages they have left (if survey)
+    > example shown below is a survey page, and tells the users how much more they have left and clearly states the directions.
+    > ex. ![ce33427eef660456506b724d82ce8ab2](https://user-images.githubusercontent.com/59623119/72315437-a6f6ee00-3647-11ea-84d7-a6df7f35282f.png)
 
 2. *Match between system and the real world*
     > def: system should use language and concepts that are easy for the user to understand. Information should appear in a logical way
     > ex. using real time rather than military time, left/right sign
       ![49904709-left-right-up-down-button-vector](https://user-images.githubusercontent.com/59623119/71937122-46a41000-3160-11ea-9b45-821821929473.jpg)
-
+  
 3. *User control and freedom*
     > def: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
     > ex. back to home button, exit buttons
