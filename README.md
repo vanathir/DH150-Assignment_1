@@ -68,5 +68,7 @@ From just a first look at this website, I thought that it did a good job of cove
 10. *Help and documentation*
     - Definition: provide help and documentation, and it should be easy to navigate through the site
     - Ex. help page, faqs, search, chatbot
-    - Contiki's website has a chat bar as well as FAQ page which allows the user to get through the site and have their questions answered in a timely manner.
+    - Contiki's website has a chat bar as well as FAQ page which allows the user to get through the site and have their questions answered in a timely manner. However, it was not designed well because the you had to go through various FAQ pages before you could even reach your question. It was a multi-step process to something that could have been done very simply, and thus was frustrating.
+    ![Screen Shot 2020-01-13 at 11 21 41 PM](https://user-images.githubusercontent.com/59623119/72322562-791ba480-365b-11ea-97e4-07427ab34403.png)
+
     
