@@ -89,22 +89,25 @@ And here is a picture of the website when you first open it up:
 From the first look of the website and app, it seems like a very well put together design. However, once you put in your preferences such as: where you want to stay, when you want to stay, and how many adults and children there are, the site gets more complicated because it lists a bunch of options without much order. It is a lot to fit on one page which can make it overwhelming for the user. 
 
 1. *Visibility of system status*
+    - Ex. Survey page
     - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish but also effective in narrowing down your results for potential Airbnb's to stay at. 
     
 2. *Match between system and the real world*
+    - Ex. left/right buttons
     - Similar to the Contiki website, the Airbnb website includes arrows over rows of pictures which make it easy for the user to move left and right and see various Airbnb's that are avaible. It is also clearly a match between the system and the real world because left means left while right means right.
     ![Screen Shot 2020-01-14 at 12 33 51 AM](https://user-images.githubusercontent.com/59623119/72327251-9190bc80-3665-11ea-96f6-5c2c119d249e.png)
   
 3. *User control and freedom*
     - Definition: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
     - Ex. back to home button, exit buttons
-    - After clicking the button on the left with the three lines, it opens up a page that allows you to go to various pages in the website itself. However, the website does a bad job of allowing user control and freedom because it is difficult to understand what page each of those links takes you to, and how to get back to the original page that you want to.
-    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
+    - In the website version of Airbnb, clicking on the logo allows you to easily see all the options of how to get to the page that you want, including back to home. In the app version, the the top of the app has a button that lets you go back to the last page you were on. So, it is a good example of user control and freedom.
+    ![IMG_5892](https://user-images.githubusercontent.com/59623119/72327598-47f4a180-3666-11ea-9723-66d070d8663d.png)
+    ![Screen Shot 2020-01-14 at 12 37 25 AM](https://user-images.githubusercontent.com/59623119/72327613-4e831900-3666-11ea-8a9b-94352d236ef2.png)
 
 4. *Consistency and standards*
-    - Definition: site should be filled with similar words and actions
-    - Ex. location of return to home button should be in the same place, exit is always exit, see more is always see more
-    - The website does a good job of this because the buttons in the left side of the website are always in the same area. Additionally, the status bar on top with the search bar and phone number of the company are in the same area every time as well.
+    - Ex. location of return to home button should be in the same place, language should be the same
+    - The Airbnb website does not do not a good job of mainting this heuristic. While the entire website should be in the same language, it is not. There are some posts that are in English while others are in Spanish, and this is partly due to the fact that the owner's are the ones who post for their own homes, not the Airbnb company. However, it makes it confusing and reduces the accessibility that users have over certain locations. It is also confusing since some houses are "plus" while others are not. Without more information, there is no way to know what this means.
+    
     
 5. *Error prevention*
     - Definition: good systems prevent problems from occurring in the first place
