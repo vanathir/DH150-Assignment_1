@@ -93,7 +93,7 @@ From the first look of the website and app, it seems like a very well put togeth
     
 2. *Match between system and the real world*
     - Similar to the Contiki website, the Airbnb website includes arrows over rows of pictures which make it easy for the user to move left and right and see various Airbnb's that are avaible. It is also clearly a match between the system and the real world because left means left while right means right.
-    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72320680-0d373d00-3657-11ea-9113-78a35800ee16.png)
+    ![Screen Shot 2020-01-14 at 12 33 51 AM](https://user-images.githubusercontent.com/59623119/72327251-9190bc80-3665-11ea-96f6-5c2c119d249e.png)
   
 3. *User control and freedom*
     - Definition: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
