@@ -100,7 +100,7 @@ From the first look of the website and app, it seems like a very well put togeth
 
 1. *Visibility of system status*
     - Ex. Survey page
-    - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish but also effective in narrowing down your results for potential Airbnb's to stay at. 
+    - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish but also effective in narrowing down your results for potential Airbnb's to stay at. This can be seen in the image above.
     - Severity rating: 1
     
 2. *Match between system and the real world*
@@ -138,6 +138,7 @@ From the first look of the website and app, it seems like a very well put togeth
 7. *Flexibility and efficiency of use*
     - Ex. buttons
     - Airbnb does not do the best job of making sure the site is flexible and efficient to use because has a lot going on, especially in the webiste version. It attacks you with pictures of avaible places, the ratings of the places, the price of it, where it is located, and more. This is just too much to include on one page since it can easily overwhelm the user and make it hard to decide on what exactly you want.
+    ![Screen Shot 2020-01-14 at 1 05 38 AM](https://user-images.githubusercontent.com/59623119/72329809-45944680-366a-11ea-9f19-82ff36c2b9e0.png)
     - Severity rating: 3
 
 8. *Aesthetic and minimalist design*
@@ -153,7 +154,7 @@ From the first look of the website and app, it seems like a very well put togeth
      
 10. *Help and documentation*
     - Ex. search bar, chatbot
-    - Airbnb's website has a search bar as well as help page which lets the user have their questions answered in an easy way. While it is simple to access, the vocabulary of the answers are difficult to understand and very lengthy, which can easily bore the reader and cause them to navigate away from the page. Because of this, it is not a good design. 
+    - Airbnb's website has a search bar as well as help page which lets the user have their questions answered in an easy way. While it is simple to access, the vocabulary of the answers are difficult to understand and very lengthy, which can easily bore the reader and cause them to navigate away from the page. Because of this, it is not a good design. The picture used below is the same as the one used for flexibility and efficiency of use.
     - Severity rating: 2
     ![Screen Shot 2020-01-14 at 1 05 38 AM](https://user-images.githubusercontent.com/59623119/72329809-45944680-366a-11ea-9f19-82ff36c2b9e0.png)
 
