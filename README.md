@@ -20,7 +20,7 @@
 4. *Consistency and standards*
     > def: site should be filled with similar words and actions
     > ex. location of return to home button should be in the same place, exit is always exit, see more is always see more
-    > 
+    > ![1_Rgnuo5cD1ArXf6G-JNEflA](https://user-images.githubusercontent.com/59623119/72316326-a6138b80-364a-11ea-89d4-8f40f0e80e6f.png)
    
 5. *Error prevention*
     > def: good systems prevent problems from occurring in the first place
@@ -30,7 +30,7 @@
      
 6. *Recognition rather than recall*
     > def: should minimize how much the user has to memorize by utilizing various objects and actions
-    > ex. home means home
+    ... ex. home means home ...
     > In the example below, despite the arrow having two different designs, the user knows that clicking that button would mean to go back
     > ![images](https://user-images.githubusercontent.com/59623119/72316103-dd356d00-3649-11ea-8b5e-4a875037a51f.jpg)
 
