@@ -1,4 +1,10 @@
-### **DH150-Assignment_1**
+# Activity 1: Heuristic Evaluation
+
+### **DH150-Assignment_1 by Vanathi Ravikumar**
+
+The first website that I have chosen to use for this assignment is the Contiki website. It is a travel website that is used by people from the ages of 18-35 all over the world to plan adventure trips. It has quickly shaped the way that young people plan vacations because it allows the user to choose a trip that is already preplanned by the agency itself. However, it still allows free time so that you can do things in the city that aren't offered by the agency. 
+
+Here is a picture of the website as soon as you open it:
 
 1. *Visibility of system status*
     - Definition: system should provide users visual feedback on the site and within a reasonable amount of time
