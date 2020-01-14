@@ -130,13 +130,12 @@ From the first look of the website and app, it seems like a very well put togeth
 9. *Help users recognize, diagnose, and recover from errors*
     - Ex. internet connection warning
     - The Airbnb website does not do a good job of representing this ux design heuristic because it merely tells you that there is an error, not what the error is and how it can be fixed by the user. This can lead to frustration, and should be fized by clearly stating what the problem is and how to overcome it. 
-    
+    ![7e72131086ff16e8d2623ac85418eb83e1c95270_2_690x344](https://user-images.githubusercontent.com/59623119/72329588-df0f2880-3669-11ea-9912-57c1b1e4fe7c.png)
      
 10. *Help and documentation*
-    - Definition: provide help and documentation, and it should be easy to navigate through the site
-    - Ex. help page, faqs, search, chatbot
-    - Contiki's website has a chat bar as well as FAQ page which allows the user to get through the site and have their questions answered in a timely manner. However, it was not designed well because the you had to go through various FAQ pages before you could even reach your question. It was a multi-step process to something that could have been done very simply, and thus was frustrating.
-    ![Screen Shot 2020-01-13 at 11 21 41 PM](https://user-images.githubusercontent.com/59623119/72322562-791ba480-365b-11ea-97e4-07427ab34403.png)
+    - Ex. search bar, chatbot
+    - Airbnb's website has a search bar as well as help page which lets the user have their questions answered in an easy way. While it is simple to access, the vocabulary of the answers are difficult to understand and very lengthy, which can easily bore the reader and cause them to navigate away from the page. Because of this, it is not a good design. 
+    
 
 
     
