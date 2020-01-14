@@ -33,7 +33,7 @@ From just a first look at this website, I thought that it did a good job of cove
     - Ex. back to home button, exit buttons
     - After clicking the button on the left with the three lines, it opens up a page that allows you to go to various pages in the website itself. However, the website does a bad job of allowing user control and freedom because it is difficult to understand what page each of those links takes you to, and how to get back to the original page that you want to.
     - Severity rating: 3
-    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
+    ![Screen Shot 2020-01-13 at 10 51 52 PM](https://user-images.githubusercontent.com/59623119/72331109-7ecdb600-366c-11ea-9790-5f48455b79ef.png)
 
 4. *Consistency and standards*
     - Definition: site should be filled with similar words and actions
