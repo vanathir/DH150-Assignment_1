@@ -1,4 +1,4 @@
-# EasyTravel
+# EasyEnjoyableTravel
 
 ## **DH150-Assignment_1: Heuristic Evaluation by Vanathi Ravikumar**
 
