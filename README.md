@@ -20,11 +20,13 @@
 4. *Consistency and standards*
     > def: site should be filled with similar words and actions
     > ex. location of return to home button should be in the same place, exit is always exit, see more is always see more
+    > 
    
 5. *Error prevention*
     > def: good systems prevent problems from occurring in the first place
     > ex. 404 shows the site is bad and that there is a problem
-    > 
+    > example below shows how in the first image, there is an error but it is not clear. In the second image, there is a prevention of error by telling the user how to correct their mistake
+    > ![1_yTSPxYNf2cElImozyH6LhQ](https://user-images.githubusercontent.com/59623119/72316192-36050580-364a-11ea-9a3c-ef2b7a5f77fc.jpg)
      
 6. *Recognition rather than recall*
     > def: should minimize how much the user has to memorize by utilizing various objects and actions
@@ -37,9 +39,6 @@
     > ex. buttons
     > example below is very efficient because it has only a few words, and a button that automatically takes the user to the page they are looking for
     > ![Screen-Shot-2018-08-14-at-5 14 43-PM](https://user-images.githubusercontent.com/59623119/72315749-c17d9700-3648-11ea-8f16-a09c2902156f.png)
-
-
-    
 
 8. *Aesthetic and minimalist design*
     > def: site should only include relavent information, and should be nice and easy to look at
