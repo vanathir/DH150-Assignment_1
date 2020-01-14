@@ -1,10 +1,16 @@
 # Activity 1: Heuristic Evaluation
 
-### **DH150-Assignment_1 by Vanathi Ravikumar**
+## **DH150-Assignment_1 by Vanathi Ravikumar**
 
 The first website that I have chosen to use for this assignment is the Contiki website. It is a travel website that is used by people from the ages of 18-35 all over the world to plan adventure trips. It has quickly shaped the way that young people plan vacations because it allows the user to choose a trip that is already preplanned by the agency itself. However, it still allows free time so that you can do things in the city that aren't offered by the agency. 
 
 Here is a picture of the website as soon as you open it:
+![Screen Shot 2020-01-13 at 10 18 44 PM](https://user-images.githubusercontent.com/59623119/72319001-bb8cb380-3652-11ea-905c-ef8d5cc6aced.png)
+
+### Information about the website for the first heuristic evalution
+(https://www.contiki.com/us/en "Contiki's Homepage")
+
+From just a first look at this website, I thought that it did a good job of covering all the aspects that it needed to. It has the company's logo in the top left corner, the company's phone number, as well as a search bar that asks the user where they want to go. However, the site is not aesthetically pleasing to look at and has too much going on which makes it difficult for the user to easily navigate the site. Additionally, some of the colors are clashing, and it is confusing to understand what the buttons on the left side of the page actually do. There is also too much information to scroll through on the website, and I think this can be improved. 
 
 1. *Visibility of system status*
     - Definition: system should provide users visual feedback on the site and within a reasonable amount of time
