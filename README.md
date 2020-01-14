@@ -50,14 +50,13 @@ From just a first look at this website, I thought that it did a good job of cove
 7. *Flexibility and efficiency of use*
     - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced 
     - Ex. buttons
-    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it is too crowded and has too much going on. 
-    ![Screen-Shot-2018-08-14-at-5 14 43-PM](https://user-images.githubusercontent.com/59623119/72315749-c17d9700-3648-11ea-8f16-a09c2902156f.png)
+    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it is too crowded and has too much going on. As seen in the picture below, there are too many things on page: there is the survey to the right, the travel options in the middle, and a bar with various buttons on the left. Because of how many things are present on the page, it makes it difficult to navigate it and is clearly not as efficient as it could be. 
+    ![Screen Shot 2020-01-13 at 11 12 47 PM](https://user-images.githubusercontent.com/59623119/72322079-47eea480-365a-11ea-98d6-74875944123c.png)
 
 8. *Aesthetic and minimalist design*
     - Defintion: site should only include relavent information, and should be nice and easy to look at
     - Ex. light colors and minimal words on the screen
-    - This webpage is very simple and easy to understand. It is also nice to look at!
-    ![Aesthetic](https://user-images.githubusercontent.com/59623119/71936136-7271c680-315d-11ea-88a1-9593ee7a602d.png)
+    - Contiki is not very aesthetic to look at. There are too many words and pictures present on the page, and it is definitely not minimalistic. Not only this, but the page also had an advertisement towards the top which adds onto the clashiness of the web page.
 
 9. *Help users recognize, diagnose, and recover from errors*
     - Definition: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
