@@ -107,13 +107,12 @@ From the first look of the website and app, it seems like a very well put togeth
 4. *Consistency and standards*
     - Ex. location of return to home button should be in the same place, language should be the same
     - The Airbnb website does not do not a good job of mainting this heuristic. While the entire website should be in the same language, it is not. There are some posts that are in English while others are in Spanish, and this is partly due to the fact that the owner's are the ones who post for their own homes, not the Airbnb company. However, it makes it confusing and reduces the accessibility that users have over certain locations. It is also confusing since some houses are "plus" while others are not. Without more information, there is no way to know what this means.
-    
-    
+    ![IMG_5893](https://user-images.githubusercontent.com/59623119/72328349-9b1b2400-3667-11ea-90eb-071bfc9be11c.PNG)
+        
 5. *Error prevention*
-    - Definition: good systems prevent problems from occurring in the first place
-    - Ex. 404 shows the site is bad and that there is a problem
-    - The example below shows how in the first image, there is an error, but it is not make it clear to the user what the exact problem is. In the second image, there is a prevention of this same error by telling the user how to correct their mistake. This is not in this website, but it is an example of it in general. This website prevents errors most of the time, the only trouble that occurs is when it tells you to wait as the page refreshes.
-    ![1_yTSPxYNf2cElImozyH6LhQ](https://user-images.githubusercontent.com/59623119/72316192-36050580-364a-11ea-9a3c-ef2b7a5f77fc.jpg)
+    - Ex. loading symbol states that the site will take a while to load
+    - The example below shows how in the Airbnb app, it takes a while for the app to actually load on your phone. However, since the app only shows the Airbnb symbol, it could be hard for some people to understand what that means. Because of this, it is a bad example of error prevention because sometimes you end up stuck on this page for a while and do not know what to do.
+    
      
 6. *Recognition rather than recall*
     - Definition: should minimize how much the user has to memorize by utilizing various objects and actions
