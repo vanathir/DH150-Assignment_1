@@ -112,12 +112,11 @@ From the first look of the website and app, it seems like a very well put togeth
 5. *Error prevention*
     - Ex. loading symbol states that the site will take a while to load
     - The example below shows how in the Airbnb app, it takes a while for the app to actually load on your phone. However, since the app only shows the Airbnb symbol, it could be hard for some people to understand what that means. Because of this, it is a bad example of error prevention because sometimes you end up stuck on this page for a while and do not know what to do.
-    
+    ![IMG_66B8732F621F-1](https://user-images.githubusercontent.com/59623119/72328572-0238d880-3668-11ea-8579-772b9b415757.jpeg)
      
 6. *Recognition rather than recall*
-    - Definition: should minimize how much the user has to memorize by utilizing various objects and actions
-    - Ex. home means home
-    - This website does not do a good job of following this important design heuristic because it is hard to understand what each of the buttons means. Using a previous image, it is clear to see that there are so many buttons but with no clarity as to what they mean until you actually click on the button. For example, one would not know that the "#" button means "who we are" until they click on the button and it takes you to that page. 
+    - Ex. search logo means search
+    - The Airbnb website does a good job of this because it 
     ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
 
 7. *Flexibility and efficiency of use*
