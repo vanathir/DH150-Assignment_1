@@ -28,10 +28,15 @@
 6. *Recognition rather than recall*
     > def: should minimize how much the user has to memorize by utilizing various objects and actions
     > ex. home means home
+    > 
 
 7. *Flexibility and efficiency of use*
     > def: site should be easy for the navigator to use, whether they are experienced or inexperienced 
     > ex. buttons
+    > example below is very efficient because it has only a few words, and a button that automatically takes the user to the page they are looking for
+    > ![Screen-Shot-2018-08-14-at-5 14 43-PM](https://user-images.githubusercontent.com/59623119/72315749-c17d9700-3648-11ea-8f16-a09c2902156f.png)
+
+
     
 
 8. *Aesthetic and minimalist design*
