@@ -14,6 +14,8 @@
 3. *User control and freedom*
     > def: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
     > ex. back to home button, exit buttons
+    > example below clearly provides users the ability to go back to the orginal page that they were on
+    > ![home-example05](https://user-images.githubusercontent.com/59623119/72315598-38666000-3648-11ea-984e-a1fc2592214a.jpg)
 
 4. *Consistency and standards*
     > def: site should be filled with similar words and actions
@@ -30,20 +32,24 @@
 7. *Flexibility and efficiency of use*
     > def: site should be easy for the navigator to use, whether they are experienced or inexperienced 
     > ex. buttons
+    
 
 8. *Aesthetic and minimalist design*
     > def: site should only include relavent information, and should be nice and easy to look at
     > ex. light colors and minimal words on the screen
+    > this webpage is very simple and easy to understand
       ![Aesthetic](https://user-images.githubusercontent.com/59623119/71936136-7271c680-315d-11ea-88a1-9593ee7a602d.png)
 
 9. *Help users recognize, diagnose, and recover from errors*
     > def: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
     > ex. internet connection warning, 404 error
+    > example shown below is a picture of a 404 error that is quite common, and explains to the user what exactly the problem is
       ![404 error](https://user-images.githubusercontent.com/59623119/71935866-c5974980-315c-11ea-8671-7dd19d136874.png)
      
 10. *Help and documentation*
     > def: provide help and documentation, and it should be easy to navigate through the site
     > ex. help page, faqs, search, chatbot
+    > example below show's Amazon's FAQs page which answers many questions that users may have
        ![Amazon-Web-Services-FAQs](https://user-images.githubusercontent.com/59623119/71936287-d3999a00-315d-11ea-9bb9-5dceea0f9618.jpg)
 
 
