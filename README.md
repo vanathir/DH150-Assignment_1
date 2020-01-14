@@ -53,7 +53,7 @@ From just a first look at this website, I thought that it did a good job of cove
     - Ex. home means home
     - This website does not do a good job of following this important design heuristic because it is hard to understand what each of the buttons means. Using a previous image, it is clear to see that there are so many buttons but with no clarity as to what they mean until you actually click on the button. For example, one would not know that the "#" button means "who we are" until they click on the button and it takes you to that page.
     - Severity rating: 3
-    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
+    ![Screen Shot 2020-01-13 at 10 51 52 PM](https://user-images.githubusercontent.com/59623119/72331109-7ecdb600-366c-11ea-9790-5f48455b79ef.png)
 
 7. *Flexibility and efficiency of use*
     - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced 
@@ -156,7 +156,5 @@ From the first look of the website and app, it seems like a very well put togeth
     - Airbnb's website has a search bar as well as help page which lets the user have their questions answered in an easy way. While it is simple to access, the vocabulary of the answers are difficult to understand and very lengthy, which can easily bore the reader and cause them to navigate away from the page. Because of this, it is not a good design. 
     - Severity rating: 2
     ![Screen Shot 2020-01-14 at 1 05 38 AM](https://user-images.githubusercontent.com/59623119/72329809-45944680-366a-11ea-9f19-82ff36c2b9e0.png)
-
-
 
     
