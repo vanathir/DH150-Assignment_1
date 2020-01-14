@@ -15,8 +15,8 @@ From just a first look at this website, I thought that it did a good job of cove
 1. *Visibility of system status*
     - Definition: system should provide users visual feedback on the site and within a reasonable amount of time
     - Ex. status bar, what page the user is on/ how many pages they have left (if survey)
-    - The example shown below is a survey page. It functions as a good survey page because it tells the users how much more they have left until completion and clearly states the directions of what to do.
-    ![ce33427eef660456506b724d82ce8ab2](https://user-images.githubusercontent.com/59623119/72315437-a6f6ee00-3647-11ea-84d7-a6df7f35282f.png)
+    - The example shown below is a survey page that is found in the Contiki website. It is not a very good example of the visibility of the system status because it is small, and does not necessarily show the user how much of the survey is left. It is also hard to navigate because it is only on the right side of the page and does not take up the bulk of the it. It seems bigger because I screenshotted it. 
+    ![Screen Shot 2020-01-13 at 10 41 02 PM](https://user-images.githubusercontent.com/59623119/72320181-ff34ec80-3655-11ea-968a-5413d51f3f08.png)
 
 2. *Match between system and the real world*
     - Defintion: system should use language and concepts that are easy for the user to understand. Information should appear in a logical way
