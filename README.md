@@ -56,16 +56,17 @@ From just a first look at this website, I thought that it did a good job of cove
 8. *Aesthetic and minimalist design*
     - Defintion: site should only include relavent information, and should be nice and easy to look at
     - Ex. light colors and minimal words on the screen
-    - Contiki is not very aesthetic to look at. There are too many words and pictures present on the page, and it is definitely not minimalistic. Not only this, but the page also had an advertisement towards the top which adds onto the clashiness of the web page.
+    - Contiki is not very aesthetic to look at. There are too many words and pictures present on the page, and it is definitely not minimalistic. Not only this, but the page also had an advertisement towards the top which adds onto the clashiness of the web page, as seen below.
+    ![Screen Shot 2020-01-13 at 11 16 01 PM](https://user-images.githubusercontent.com/59623119/72322354-001c4d00-365b-11ea-8c1f-5992cb3b8b46.png)
 
 9. *Help users recognize, diagnose, and recover from errors*
     - Definition: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
     - Ex. internet connection warning, 404 error
-    - The example shown below is a picture of a 404 error that is quite common, and explains to the user what exactly the problem is.
+    - While I was taking a look at the website, there were no errors that came up except for a time when it told me to wait as the results loaded. I was easily able to understand the problem because it was told to me very clearly. Below is an example of a 404 error image that is explained well to the user. 
     ![404 error](https://user-images.githubusercontent.com/59623119/71935866-c5974980-315c-11ea-8671-7dd19d136874.png)
      
 10. *Help and documentation*
     - Definition: provide help and documentation, and it should be easy to navigate through the site
     - Ex. help page, faqs, search, chatbot
-    - The example below show's Amazon's FAQs page which answers many questions that users may have
-    ![Amazon-Web-Services-FAQs](https://user-images.githubusercontent.com/59623119/71936287-d3999a00-315d-11ea-9bb9-5dceea0f9618.jpg)
+    - Contiki's website has a chat bar as well as FAQ page which allows the user to get through the site and have their questions answered in a timely manner.
+    
