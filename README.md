@@ -2,12 +2,14 @@
 
 ## **DH150-Assignment_1 by Vanathi Ravikumar**
 
+### Contiki Website
+
 The first website that I have chosen to use for this assignment is the Contiki website. It is a travel website that is used by people from the ages of 18-35 all over the world to plan adventure trips. It has quickly shaped the way that young people plan vacations because it allows the user to choose a trip that is already preplanned by the agency itself. However, it still allows free time so that you can do things in the city that aren't offered by the agency. 
 
 Here is a picture of the website as soon as you open it:
 ![Screen Shot 2020-01-13 at 10 18 44 PM](https://user-images.githubusercontent.com/59623119/72319001-bb8cb380-3652-11ea-905c-ef8d5cc6aced.png)
 
-### Information about the website for the first heuristic evalution
+#### Information about the website for the first heuristic evalution
 (https://www.contiki.com/us/en "Contiki's Homepage")
 
 From just a first look at this website, I thought that it did a good job of covering all the aspects that it needed to. It has the company's logo in the top left corner, the company's phone number, as well as a search bar that asks the user where they want to go. However, the site is not aesthetically pleasing to look at and has too much going on which makes it difficult for the user to easily navigate the site. Additionally, some of the colors are clashing, and it is confusing to understand what the buttons on the left side of the page actually do. There is also too much information to scroll through on the website, and I think this can be improved. 
@@ -70,5 +72,11 @@ From just a first look at this website, I thought that it did a good job of cove
     - Ex. help page, faqs, search, chatbot
     - Contiki's website has a chat bar as well as FAQ page which allows the user to get through the site and have their questions answered in a timely manner. However, it was not designed well because the you had to go through various FAQ pages before you could even reach your question. It was a multi-step process to something that could have been done very simply, and thus was frustrating.
     ![Screen Shot 2020-01-13 at 11 21 41 PM](https://user-images.githubusercontent.com/59623119/72322562-791ba480-365b-11ea-97e4-07427ab34403.png)
+
+### Airbnb Website and App
+
+The second website that I will be using for this activity is the Airbnb website/app. This is an online way for people to choose a short period of time to live at someone's estate rather than a hotel. It allows people to travel to another place but stay somewhere homey and welcoming in contrast to a hotel room. It is an extremely popular way for people to find places to stay, and has become widely popular over the past few years. Despite this, the website could apply UX heuristics better.
+
+Here is a picture of the app and website when you first open it up:
 
     
