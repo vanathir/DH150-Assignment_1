@@ -21,14 +21,13 @@ From just a first look at this website, I thought that it did a good job of cove
 2. *Match between system and the real world*
     - Defintion: system should use language and concepts that are easy for the user to understand. Information should appear in a logical way
     - Ex. using real time rather than military time, left/right sign
-    - The buttons below are a good example of this because it includes up, down, left, and right buttons which are easy for users to understand.
-    ![49904709-left-right-up-down-button-vector](https://user-images.githubusercontent.com/59623119/71937122-46a41000-3160-11ea-9b45-821821929473.jpg)
+    - The picture below is a good example of this because it includes a right arrow which simply means that more pictures will appear to the right.
+    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72320680-0d373d00-3657-11ea-9113-78a35800ee16.png)
   
 3. *User control and freedom*
     - Definition: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
     - Ex. back to home button, exit buttons
-    - The example below clearly provides users the ability to go back to the orginal page that they were on by showing them exactly how they got to where they are now, and by providing links to backtrack should they want to.
-    - ![home-example05](https://user-images.githubusercontent.com/59623119/72315598-38666000-3648-11ea-984e-a1fc2592214a.jpg)
+    - 
 
 4. *Consistency and standards*
     - Definition: site should be filled with similar words and actions
