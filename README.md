@@ -116,26 +116,21 @@ From the first look of the website and app, it seems like a very well put togeth
      
 6. *Recognition rather than recall*
     - Ex. search logo means search
-    - The Airbnb website does a good job of this because it 
-    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
+    - The Airbnb website does a good job of this because it not only shows you the logos of various things, but tells you exactly what it means right next to it. For example, even though everyone knows what the wifi symbol looks like, having the word wifi next to the image of it makes it clear for the user and clarifies it should the user not know.
+    ![Screen Shot 2020-01-14 at 12 53 06 AM](https://user-images.githubusercontent.com/59623119/72328899-a4f15700-3668-11ea-8119-1e849986fe2e.png))
 
 7. *Flexibility and efficiency of use*
-    - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced 
     - Ex. buttons
-    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it is too crowded and has too much going on. As seen in the picture below, there are too many things on page: there is the survey to the right, the travel options in the middle, and a bar with various buttons on the left. Because of how many things are present on the page, it makes it difficult to navigate it and is clearly not as efficient as it could be. 
-    ![Screen Shot 2020-01-13 at 11 12 47 PM](https://user-images.githubusercontent.com/59623119/72322079-47eea480-365a-11ea-98d6-74875944123c.png)
+    - Airbnb does not do the best job of making sure the site is flexible and efficient to use because has a lot going on, especially in the webiste version. It attacks you with pictures of avaible places, the ratings of the places, the price of it, where it is located, and more. This is just too much to include on one page since it can easily overwhelm the user and make it hard to decide on what exactly you want.
 
 8. *Aesthetic and minimalist design*
-    - Defintion: site should only include relavent information, and should be nice and easy to look at
-    - Ex. light colors and minimal words on the screen
-    - Contiki is not very aesthetic to look at. There are too many words and pictures present on the page, and it is definitely not minimalistic. Not only this, but the page also had an advertisement towards the top which adds onto the clashiness of the web page, as seen below.
-    ![Screen Shot 2020-01-13 at 11 16 01 PM](https://user-images.githubusercontent.com/59623119/72322354-001c4d00-365b-11ea-8c1f-5992cb3b8b46.png)
-
+    - Ex. minimal words and colors on the screen
+    - The Airbnb website is not very aesthetically pleasing to look at because of the various colors that are thrown all over the page. Additionally, there are too many words, and the user will end up looking at the pictures to determine their choices anyway. To make this a better example of aesthetic and minimalist design, Airbnb should focus on eliminating uneccessary words and keep it to what the user will focus on– the pictures. 
+   
 9. *Help users recognize, diagnose, and recover from errors*
-    - Definition: errors that may pop up on the site should be expressed in plain language and easy for the user to understand what th problem is
-    - Ex. internet connection warning, 404 error
-    - While I was taking a look at the website, there were no errors that came up except for a time when it told me to wait as the results loaded. I was easily able to understand the problem because it was told to me very clearly. Below is an example of a 404 error image that is explained well to the user. 
-    ![404 error](https://user-images.githubusercontent.com/59623119/71935866-c5974980-315c-11ea-8671-7dd19d136874.png)
+    - Ex. internet connection warning
+    - The Airbnb website does not do a good job of representing this ux design heuristic because it merely tells you that there is an error, not what the error is and how it can be fixed by the user. This can lead to frustration, and should be fized by clearly stating what the problem is and how to overcome it. 
+    
      
 10. *Help and documentation*
     - Definition: provide help and documentation, and it should be easy to navigate through the site
