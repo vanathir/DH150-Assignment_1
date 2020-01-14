@@ -24,11 +24,13 @@
 5. *Error prevention*
     > def: good systems prevent problems from occurring in the first place
     > ex. 404 shows the site is bad and that there is a problem
+    > 
      
 6. *Recognition rather than recall*
     > def: should minimize how much the user has to memorize by utilizing various objects and actions
     > ex. home means home
-    > 
+    > In the example below, despite the arrow having two different designs, the user knows that clicking that button would mean to go back
+    > ![images](https://user-images.githubusercontent.com/59623119/72316103-dd356d00-3649-11ea-8b5e-4a875037a51f.jpg)
 
 7. *Flexibility and efficiency of use*
     > def: site should be easy for the navigator to use, whether they are experienced or inexperienced 
