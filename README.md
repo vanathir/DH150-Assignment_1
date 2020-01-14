@@ -27,30 +27,30 @@ From just a first look at this website, I thought that it did a good job of cove
 3. *User control and freedom*
     - Definition: users should be free to navigate the site as they want to, but often choose the wrong functions. They should be able to leave in a simple manner
     - Ex. back to home button, exit buttons
-    - 
+    - After clicking the button on the left with the three lines, it opens up a page that allows you to go to various pages in the website itself. However, the website does a bad job of allowing user control and freedom because it is difficult to understand what page each of those links takes you to, and how to get back to the original page that you want to.
+    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
 
 4. *Consistency and standards*
     - Definition: site should be filled with similar words and actions
     - Ex. location of return to home button should be in the same place, exit is always exit, see more is always see more
-    - In the example below, the multiple pages are very similar and include the same bar at the top and below.
-    ![1_Rgnuo5cD1ArXf6G-JNEflA](https://user-images.githubusercontent.com/59623119/72316326-a6138b80-364a-11ea-89d4-8f40f0e80e6f.png)
-   
+    - The website does a good job of this because the buttons in the left side of the website are always in the same area. Additionally, the status bar on top with the search bar and phone number of the company are in the same area every time as well.
+    
 5. *Error prevention*
     - Definition: good systems prevent problems from occurring in the first place
     - Ex. 404 shows the site is bad and that there is a problem
-    - The example below shows how in the first image, there is an error, but it is not make it clear to the user what the exact problem is. In the second image, there is a prevention of this same error by telling the user how to correct their mistake.
+    - The example below shows how in the first image, there is an error, but it is not make it clear to the user what the exact problem is. In the second image, there is a prevention of this same error by telling the user how to correct their mistake. This is not in this website, but it is an example of it in general. This website prevents errors most of the time, the only trouble that occurs is when it tells you to wait as the page refreshes.
     ![1_yTSPxYNf2cElImozyH6LhQ](https://user-images.githubusercontent.com/59623119/72316192-36050580-364a-11ea-9a3c-ef2b7a5f77fc.jpg)
      
 6. *Recognition rather than recall*
     - Definition: should minimize how much the user has to memorize by utilizing various objects and actions
     - Ex. home means home
-    - In the example below, despite the arrow having two different designs, the user knows that clicking that button would mean to go back to the previous page because users know that a back arrow means this.
-    ![images](https://user-images.githubusercontent.com/59623119/72316103-dd356d00-3649-11ea-8b5e-4a875037a51f.jpg)
+    - This website does not do a good job of following this important design heuristic because it is hard to understand what each of the buttons means. Using a previous image, it is clear to see that there are so many buttons but with no clarity as to what they mean until you actually click on the button. For example, one would not know that the "#" button means "who we are" until they click on the button and it takes you to that page. 
+    ![Screen Shot 2020-01-13 at 10 45 50 PM](https://user-images.githubusercontent.com/59623119/72321061-c269f500-3657-11ea-9515-bfa379ea1760.png)
 
 7. *Flexibility and efficiency of use*
     - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced 
     - Ex. buttons
-    - The Spotify example below is very efficient because it only utilizes a few words, and has a single button that automatically takes the user to the page they are looking for.
+    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it is too crowded and has too much going on. 
     ![Screen-Shot-2018-08-14-at-5 14 43-PM](https://user-images.githubusercontent.com/59623119/72315749-c17d9700-3648-11ea-8f16-a09c2902156f.png)
 
 8. *Aesthetic and minimalist design*
