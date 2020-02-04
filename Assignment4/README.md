@@ -1,4 +1,4 @@
-### Assignment 5
+###### Assignment 5
 
 ## Step 1:
 - In today’s working world, many people are given a limited amount of vacation time that they often have to fit into an already busy schedule. While that vacation time is meant to be a way for them to relax and escape the pressures that the working industry can naturally cause, often planning those trips itself adds to the pressure. Many travel apps today are extremely busy and provide an overload of information making it hard for users to figure out what is the best option for them. Rather than being a simple process, it is a complicated one that takes users a long time to figure out. The main activity my project would support for the users is to make this process of booking a trip easy. I would like for it to be a relaxing and fun process for users so that they become excited for the vacation. I would like to input a preliminary survey to capture what the user is looking for, so that the options that will be listed for them are pre-planned trips with everything they would want to do. However, they could still have the option to make changes.
@@ -17,4 +17,10 @@
 ## Step 4:
 https://docs.google.com/document/d/1jFGZNPeHqyozPPaHUp4xiQKBfrL-2rPYVto5ywJJs0o/edit?usp=sharing
 
+
 ## Step 5:
+https://www.youtube.com/watch?v=dwxh9nB7pes&feature=youtu.be
+
+## Step 6
+https://otter.ai/s/VjAeoKQlQQu4-uYlew1Kdg
+
