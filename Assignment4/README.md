@@ -16,11 +16,14 @@
 
 ## Step 4:
 https://docs.google.com/document/d/1jFGZNPeHqyozPPaHUp4xiQKBfrL-2rPYVto5ywJJs0o/edit?usp=sharing
-
+Pen-paper notes: [new doc 2020-02-03 23.01.02_20200203230317 2.pdf](https://github.com/vanathir/DH150_UXdesign/files/4151905/new.doc.2020-02-03.23.01.02_20200203230317.2.pdf)
 
 ## Step 5:
 https://www.youtube.com/watch?v=dwxh9nB7pes&feature=youtu.be
 
 ## Step 6
 https://otter.ai/s/VjAeoKQlQQu4-uYlew1Kdg
+
+## Reflection
+For this assignment, my participant was my roommate who is an avid travler. She enjoys planning trips and organization, and so I thought she would be the perfect person to observe for this particular topic. I thought the assignment went fairly smoothly, however, I was confused about the link to the interview guide and whether we were just supposed to copy his words, and so I changed a few things to make it fit my topic of traveling better. I was not expecting the assignment to take as long as it did, because my roommate and I spent close to 30 minutes with the observation process because we both wanted to be thorough. From the data, I saw that because she was a young student who was more in tune with travel websites, she automatically knew what sites to go to and how to properly plan a trip within the restrictions that I gave her. I learned that when doing a contextual inquiry, you have to make sure that you are observing various participants from different backgrounds and ages to make sure that you are not confounding your data. Overall, I thought the assignment went well, but am not sure if I followed all the steps correctly or not. I did learn that this process is very important to UX design because it shows you how users would go about your tasks in a natural setting that they are comfortable in.
 
