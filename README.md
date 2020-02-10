@@ -44,9 +44,11 @@ From just a first look at this website, I thought that it did a good job of cove
 5. *Error prevention*
     - Definition: good systems prevent problems from occurring in the first place
     - Ex. 404 shows the site is bad and that there is a problem
-    - The example below shows how the site makes it clear to the user what the exact problem is. There is a prevention of   error by telling the user how to correct their mistake so that they can move forward in the process of booking their trip. While this website prevents errors most of the time, there is a constant issue that occurs when the site tells you to wait as the page refreshes, but does not say why this is occurring. Rather, it tells you a generic answer.
+    - The example below shows how the site makes it clear to the user what the exact problem is. There is a prevention of   error by telling the user how to correct their mistake so that they can move forward in the process of booking their trip. While this website prevents errors most of the time, there is a constant issue that occurs when the site tells you to wait as the page refreshes, but does not say why this is occurring. Rather, it tells you a generic answer that is frustrating for the user.
     - Severity rating: 2
-    !![Screen Shot 2020-02-10 at 10 42 49 AM](https://user-images.githubusercontent.com/59623119/74179373-2b5e7180-4bf2-11ea-955e-b1b2c5e20e6d.png)
+    ![Screen Shot 2020-02-10 at 10 42 49 AM](https://user-images.githubusercontent.com/59623119/74179373-2b5e7180-4bf2-11ea-955e-b1b2c5e20e6d.png)
+    ![Screen Shot 2020-02-10 at 10 47 19 AM](https://user-images.githubusercontent.com/59623119/74179673-cb1bff80-4bf2-11ea-8c8e-7d1f394acd74.png)
+
      
 6. *Recognition rather than recall*
     - Definition: should minimize how much the user has to memorize by utilizing various objects and actions
@@ -56,9 +58,9 @@ From just a first look at this website, I thought that it did a good job of cove
     ![Screen Shot 2020-01-13 at 10 51 52 PM](https://user-images.githubusercontent.com/59623119/72331109-7ecdb600-366c-11ea-9790-5f48455b79ef.png)
 
 7. *Flexibility and efficiency of use*
-    - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced 
-    - Ex. buttons
-    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it is too crowded and has too much going on. As seen in the picture below, there are too many things on page: there is the survey to the right, the travel options in the middle, and a bar with various buttons on the left. Because of how many things are present on the page, it makes it difficult to navigate it and is clearly not as efficient as it could be.
+    - Definition: site should be easy for the navigator to use, whether they are experienced or inexperienced. There should be meny methods of being able to get to one solution. 
+    - Ex. buttons, short cuts
+    - The Contiki website does not do a good job of making sure the site is flexible and efficient to use because it would require one who is well versed with the website to be able to naviagte it easily. The system does not let the user choose what is the easiest way for them to navigate the website simply because there is too much going on. Whether you were experienced or inexperienced, the website only provides one way for the user to access a certain page. This makes it difficult to be efficient because you first have to learn about the website and how it works to be able to book a trip. As seen in the picture below, there are too many things on page: there is the survey to the right, the travel options in the middle, and a bar with various buttons on the left. Because of the many things are present on the page combined with  the limited ways to access ceratin pages, it makes it difficult to navigate it and is clearly not as efficient as it could be.
     - Severity rating: 3
     ![Screen Shot 2020-01-13 at 11 12 47 PM](https://user-images.githubusercontent.com/59623119/72322079-47eea480-365a-11ea-98d6-74875944123c.png)
 
@@ -100,7 +102,8 @@ From the first look of the website and app, it seems like a very well put togeth
 
 1. *Visibility of system status*
     - Ex. Survey page
-    - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish but also effective in narrowing down your results for potential Airbnb's to stay at. This can be seen in the image above.
+    - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish. Due to this, the user is easily able to see how much they have left in the survery itself since they know that as long as they finish those short questions, they will be taken to the page that they want. They are aware of what is going on within the system because they are told how much of the survey is left due to how short it is.
+
     - Severity rating: 1
     
 2. *Match between system and the real world*
