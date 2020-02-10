@@ -103,8 +103,8 @@ From the first look of the website and app, it seems like a very well put togeth
 1. *Visibility of system status*
     - Ex. Survey page
     - The Airbnb website has a survey page at the very beginning as soon as you open it up, because it asks you your preferences for where you want to stay and when, along with how many people. It is a good example of the visibility of system status because it is a short survey that is quick to finish. Due to this, the user is easily able to see how much they have left in the survery itself since they know that as long as they finish those short questions, they will be taken to the page that they want. They are aware of what is going on within the system because they are told how much of the survey is left due to how short it is.
-
     - Severity rating: 1
+    ![Screen Shot 2020-02-10 at 11 01 37 AM](https://user-images.githubusercontent.com/59623119/74180625-b93b5c00-4bf4-11ea-9570-54e7a0aa2be8.png)
     
 2. *Match between system and the real world*
     - Ex. left/right buttons
@@ -122,13 +122,13 @@ From the first look of the website and app, it seems like a very well put togeth
 
 4. *Consistency and standards*
     - Ex. location of return to home button should be in the same place, language should be the same
-    - The Airbnb website does not do not a good job of mainting this heuristic. While the entire website should be in the same language, it is not. There are some posts that are in English while others are in Spanish, and this is partly due to the fact that the owner's are the ones who post for their own homes, not the Airbnb company. However, it makes it confusing and reduces the accessibility that users have over certain locations. It is also confusing since some houses are "plus" while others are not. Without more information, there is no way to know what this means.
+    - The Airbnb website does not do a good job of maintaining this heuristic. While the entire website should be in the same language for consistency, it is not. There are some posts that are in English while others are in Spanish, and this is partly due to the fact that the owners are the ones who post an advertisement for their own homes, not the Airbnb company. However, it makes it confusing and reduces the accessibility that users have over certain locations. It is also confusing since some houses are labeled as "plus" while others are not. Without more information provided by the system, there is no way to know what this means.
     - Severity rating: 3
     ![IMG_5893](https://user-images.githubusercontent.com/59623119/72328349-9b1b2400-3667-11ea-90eb-071bfc9be11c.PNG)
         
 5. *Error prevention*
     - Ex. loading symbol states that the site will take a while to load
-    - The example below shows how in the Airbnb app, it takes a while for the app to actually load on your phone. However, since the app only shows the Airbnb symbol, it could be hard for some people to understand what that means. Because of this, it is a bad example of error prevention because sometimes you end up stuck on this page for a while and do not know what to do.
+    - The example below is a screenshot taken from the Airbnb app. It an example of bad error prevention because while it is normal for an app to fully load on your phone, the app only shows the Airbnb symbol. This does not convey to the user what the exact problem or issue is. Because of this, it is a bad example of error prevention because sometimes you end up stuck on this page for a while and do not know what to do.
     - Severity rating: 2
     ![IMG_66B8732F621F-1](https://user-images.githubusercontent.com/59623119/72328572-0238d880-3668-11ea-8579-772b9b415757.jpeg)
      
