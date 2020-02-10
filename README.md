@@ -131,7 +131,7 @@ From the first look of the website and app, it seems like a very well put togeth
     - The example below is a screenshot taken from the Airbnb app. It an example of bad error prevention because while it is normal for an app to fully load on your phone, the app only shows the Airbnb symbol. This does not convey to the user what the exact problem or issue is. Because of this, it is a bad example of error prevention because sometimes you end up stuck on this page for a while and do not know what to do. The second example is what pops up when users are decided what dates they want to reserve the booking for. In the image below, a potential error is prevented because the site tells you that you have to book for a minimum of 2 nights when you attempt to book it for only one. Due to this, the user is aware of what the problem is in what they are doing, and how to fix it.
     - Severity rating: 2
     ![IMG_66B8732F621F-1](https://user-images.githubusercontent.com/59623119/72328572-0238d880-3668-11ea-8579-772b9b415757.jpeg)
-    ![Screen Shot 2020-02-10 at 11 13 48 AM](https://user-images.githubusercontent.com/59623119/74181582-711d3900-4bf6-11ea-9a3b-98b3d73a8b7d.png)
+    ![Screen Shot 2020-02-10 at 11 16 40 AM](https://user-images.githubusercontent.com/59623119/74181870-dcffa180-4bf6-11ea-8791-11de2a9e9854.png)
      
 6. *Recognition rather than recall*
     - Ex. search logo means search
