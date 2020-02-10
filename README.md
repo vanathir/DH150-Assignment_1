@@ -44,9 +44,9 @@ From just a first look at this website, I thought that it did a good job of cove
 5. *Error prevention*
     - Definition: good systems prevent problems from occurring in the first place
     - Ex. 404 shows the site is bad and that there is a problem
-    - The example below shows how in the first image, there is an error, but it is not make it clear to the user what the exact problem is. In the second image, there is a prevention of this same error by telling the user how to correct their mistake. This is not in this website, but it is an example of it in general. This website prevents errors most of the time, the only trouble that occurs is when it tells you to wait as the page refreshes.
+    - The example below shows how the site makes it clear to the user what the exact problem is. There is a prevention of   error by telling the user how to correct their mistake so that they can move forward in the process of booking their trip. While this website prevents errors most of the time, there is a constant issue that occurs when the site tells you to wait as the page refreshes, but does not say why this is occurring. Rather, it tells you a generic answer.
     - Severity rating: 2
-    ![1_yTSPxYNf2cElImozyH6LhQ](https://user-images.githubusercontent.com/59623119/72316192-36050580-364a-11ea-9a3c-ef2b7a5f77fc.jpg)
+    !![Screen Shot 2020-02-10 at 10 42 49 AM](https://user-images.githubusercontent.com/59623119/74179373-2b5e7180-4bf2-11ea-955e-b1b2c5e20e6d.png)
      
 6. *Recognition rather than recall*
     - Definition: should minimize how much the user has to memorize by utilizing various objects and actions
