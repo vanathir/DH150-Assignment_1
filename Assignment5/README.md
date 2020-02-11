@@ -6,6 +6,7 @@
 ## Scenario 1: 
 
 ## Persona 2: Ming the caring mother and grandmother
+![Screen Shot 2020-02-11 at 1 02 57 AM](https://user-images.githubusercontent.com/59623119/74225073-df054700-4c6e-11ea-876f-7f996903cfd0.png)
 
 ## Scenario 2:
 
