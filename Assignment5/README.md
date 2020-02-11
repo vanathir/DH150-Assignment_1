@@ -9,7 +9,6 @@ Bryce decides that his next trip will be to Mexico City in Mexico. He is interes
 ### Journey Map
   ![journey map dh 150](https://user-images.githubusercontent.com/59623119/74231209-e9c5d900-4c7a-11ea-8f95-f6f17bfcb85e.jpg)
 
-
 ## Persona 2: Ming the caring mother and grandmother
 ![Screen Shot 2020-02-11 at 1 02 57 AM](https://user-images.githubusercontent.com/59623119/74225073-df054700-4c6e-11ea-876f-7f996903cfd0.png)
 
@@ -17,6 +16,7 @@ Bryce decides that his next trip will be to Mexico City in Mexico. He is interes
 Ming's oldest grandaughter's sixth birthday is coming up in 2 months, and so she would like to go and visit her for this special day. She wants to book the trip in advance in order to reduce the cost of the trip as much as possible. She would like to spend at least 2 weeks before her grandaugher's birthday with her and at least a week after, making the trip a total of 3 weeks. She wants the flight seats to be comfortable since she is starting to develop back problems, as well as a one-way flight so that she does not have to worry about transferring. To do this, she will utlize any travel website that will give her the most efficient flight possible for the timeframe she is hoping for.
 > While Ming would normally have her children book the trip for her, this time she decides she wants to try it for herself. This new site makes it easy for her by helping her through the entire process. She goes onto the website and at first has difficulty understanding what the website is asking for. She is confused about what information she should list to plan her trip. However, after clicking on the help button at the top of the top of the page, all of Ming's questions are answered and she puts in the proper information. To her delight, a variety of trips come up! The information is not overwhelming because there are bullet points which highlight the strenghts and weaknesses of each option. After finding one that she likes, she books the trip all by herself.
 ### Journey Map
+  ![journey map dh 150 copy](https://user-images.githubusercontent.com/59623119/74231731-175f5200-4c7c-11ea-968b-b77949a90148.jpg)
 
 ## Persona 3: Kathleen the businesswoman 
 ![Screen Shot 2020-02-11 at 1 21 56 AM](https://user-images.githubusercontent.com/59623119/74225141-f8a68e80-4c6e-11ea-98df-a808800ab64c.png)
