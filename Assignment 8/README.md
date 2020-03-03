@@ -28,4 +28,5 @@
 1. ![Screen Shot 2020-03-03 at 1 24 04 AM](https://user-images.githubusercontent.com/59623119/75761964-d1336680-5cee-11ea-98fb-8338b9f688b3.png)
 2. ![Screen Shot 2020-03-03 at 1 24 26 AM](https://user-images.githubusercontent.com/59623119/75761968-d2fd2a00-5cee-11ea-9d94-8a8713cab336.png)
 > Link to high fidelity prototype: https://www.figma.com/proto/48r7UZWlGNchT5zgFuzHR3/EasyTravel?node-id=5%3A2&scaling=scale-down
+
 > While I do not have multiple prototypes, I did get feedback from users who tested my prototype. The main thing that I learned was to make the application as simple as possible so that the flow of the app is easy to understand. In addition, they all told me they liked the color scheme and the backgrounds, especially when it came to California, San Francisco, and the California Academy of Sciences. 
