@@ -46,7 +46,7 @@ persona03 | image03
 --------|--------
 Kathleen has been assigned to go on a business trip to Atlanta, Georgia for a consulting conference. The company has only given her a week's notice, and so she must book the trip as soon as possible. Kathleen had already gone to this conference the year prior, but still finds that booking the trip is difficult because she does not remember what hotel she stayed at or flight she flew on. She wants the flight to be affordable and under the budget that her company gave her, so she does not mind how good the seat is. However, she would like a nice hotel room that is close to where the conference is being held for practicality. To do this, Kathleen will go onto the website to search up flights and hotels to see which one will be best for her urgency.  |  ![journey map dh 150 copy 2](https://user-images.githubusercontent.com/59623119/74232354-770a2d00-4c7d-11ea-858f-5c04e67ca504.jpg)
 
-https://github.com/vanathir/DH150_UXdesign/edit/master/Assignment5/README.md
+https://github.com/vanathir/DH150_UXdesign/tree/master/Assignment5
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 With this assignment, I explored how to create wireframes and how to explore color.
