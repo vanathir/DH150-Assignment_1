@@ -59,7 +59,8 @@ For this assignment, I chose to construct my low fidelity prototype on the trave
 This prototype of the traevl app showcases all the new features that I implemented. While the site itself is much simpler, it also has much more aesthetic quality, and the simple buttons make it easier for the user to understand how to navigate the site to get to where they want to go. By making this prototype, I have a much better understanding of what is difficult of users to do because I came across similar problems when I myself was testing the protoype. I built this prototype using Figma, and designed everything from scratch.
 
 ![Screen Shot 2020-03-03 at 1 24 26 AM](https://user-images.githubusercontent.com/59623119/75761968-d2fd2a00-5cee-11ea-9d94-8a8713cab336.png)
-Link to high fidelity prototype for you to try: https://www.figma.com/proto/48r7UZWlGNchT5zgFuzHR3/EasyTravel?node-id=5%3A2&scaling=scale-down
+
+[Walk through my high fidelity prototype here](https://github.com/vanathir/DH150_UXdesign/files/4216803/new.doc.2020-02-17.15.13.04.pdf)
 
 ## Pitch
 
