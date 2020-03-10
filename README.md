@@ -2,21 +2,24 @@
 ## DH150 UX Design, Vanathi Ravikumar
 
 ## What is EasyTravel? 
-(This project involves the mobile app user experience design for the trabel community with similar aesthetical taste.) What is the project about? The motivation of the project and possible contribution.
+EasyTravel is a travel application that makes it easy for users of all backgrounds to plan a trip. Many websites and applications out there are far too complicated to use and difficult to understand. My novel ux design of the mobile application is aesthetic while simple and informative. This application is meant for the avid travel community, and to be used by people such as adventurers, working individuals who need to plan a business trip, and families trying to get to their loved ones. To offer efficiency as well as satisfaction is the purpose of this app, and I hope that the users will be able to navigate this site with ease to cut down the amount of time they spend planning a trip. 
 
 ## Clear design statement: 
-What is the issue and why do you think it is important to resolve that issue by your project? 
+I would like for this mobil application to contribute to the travel community in a positive way. While the individual will be planning their trip, the application will have available hotels, food, to do activities and flights ready so that users can access them quickly and plan a trip quickly. In addition, they will not have to spend outside time researching on what the best deals are because the website will cater to their interests as they use the site more and more. By combining aesthetic importance with efficiency, users will be sure to leave this app satisfied and with a great trip planned. 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-There are many sites today that are travel oriented but... [read more...] (url of file extension)
+There are many sites today that are travel oriented but many are not efficient. So, I chose to focus on the travel community for this project, but more specifically on the travel website known as Contiki. I used Jakob Nielson's 10 usability heuristics for user interface design to identify the potential problems in the travel website. There are seven metrics of usability that should be used in the design of site, and they include: effectiveness, efficiency, satisfaction, learnability, memorability, usefulness, and accessibilty. With usability testing, I was trying to see if these metrics are met successfully by the site, and found that it was not. 
 
-website01 | website02
-----------|----------
-[image] | [second image]
+I have provided a link below so that you can take a look at this process.
+
+(https://github.com/vanathir/DH150_UXdesign/edit/master/Assignment2/README.md)
+
+image01 | 
+--------|
+[[![](http://img.youtube.com/vi/gSEHZr2-jU4/0.jpg)](http://www.youtube.com/watch?v=gSEHZr2-jU4 "DH150: Contiki Usability Test")] |
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+Summary and link to your assignment foler
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
