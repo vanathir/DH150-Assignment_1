@@ -60,7 +60,9 @@ This prototype of the traevl app showcases all the new features that I implement
 Link to high fidelity prototype for you to try: https://www.figma.com/proto/48r7UZWlGNchT5zgFuzHR3/EasyTravel?node-id=5%3A2&scaling=scale-down
 
 ## Pitch
-https://www.youtube.com/watch?v=nZUDDyAV-rs
+
+[Click here to see my EasyTravel mobile app Pitch](https://www.youtube.com/watch?v=nZUDDyAV-rs)
+
 
 ## Conclusion: what did you learn throughout the process?
 Throughout this process, I learned how difficult it is to make a website that caters to the needs of users, especially in the travel community. There are so many things to make note of, such as ensuring that hotels are accounted for, food, flights, and more. It is difficult to ensure that you are also accounting for the wide range of people that will be using your website, and so, this is why it is important to ensure that you are conducting usability tests and research so that you can cater to everyone, or at least your target audience. In going through the low fidelity and high fidelity prototypes, I learned how to use Figma and saw that my origina prototype actually did not do a good job of capturing everything that it had to. And so, with my high fidelity prototype, I had to add a lot of features to make sure that the site was as easy to use as possible. 
