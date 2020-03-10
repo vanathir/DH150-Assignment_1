@@ -13,7 +13,7 @@ There are many sites today that are travel oriented but many are not efficient. 
 
 I have provided a link below so that you can take a look at this process.
 
-(https://github.com/vanathir/DH150_UXdesign/edit/master/Assignment2/README.md)
+https://github.com/vanathir/DH150_UXdesign/blob/master/README_old.md
 
 image01 | image02
 --------|--------
