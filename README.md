@@ -14,9 +14,9 @@ I have provided a link below so that you can take a look at this process.
 
 (https://github.com/vanathir/DH150_UXdesign/edit/master/Assignment2/README.md)
 
-image01 | 
---------|
-[[![](http://img.youtube.com/vi/gSEHZr2-jU4/0.jpg)](http://www.youtube.com/watch?v=gSEHZr2-jU4 "DH150: Contiki Usability Test")] |
+image01 | image02
+--------|--------
+[![](http://img.youtube.com/vi/gSEHZr2-jU4/0.jpg)](http://www.youtube.com/watch?v=gSEHZr2-jU4 "DH150: Contiki Usability Test") | ![Screen Shot 2020-01-13 at 10 18 44 PM](https://user-images.githubusercontent.com/59623119/72319001-bb8cb380-3652-11ea-905c-ef8d5cc6aced.png)
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment foler
