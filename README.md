@@ -49,16 +49,22 @@ Kathleen has been assigned to go on a business trip to Atlanta, Georgia for a co
 https://github.com/vanathir/DH150_UXdesign/edit/master/Assignment5/README.md
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
+With this assignment, I explored how to create wireframes and how to explore color.
+https://github.com/vanathir/DH150_UXdesign/blob/master/Assignment7/Screen%20Shot%202020-02-18%20at%2011.38.34%20AM.png
+https://github.com/vanathir/DH150_UXdesign/tree/master/Assignment7
 
 ## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+For this assignment, I chose to construct my low fidelity prototype on the travel app that I am designing. I want it to be an app that creates a simple itinerary for users, based off of the preferences that they input into the app. For my low fidelity prototype, I included multiple screens that took the users through various options available on the site, including which language and country/region they wanted, where they wanted to travel to, and for how long they wanted to travel for. The person that I had test this low fidelity protoype was my dad, because he often travels a lot for his work. Since this relates to a persona I developed, I thought he would be a good person to test it. The three features that I wanted him to test were 1. going through the survey of the app, 2. changing the flight options that the app came up with, and 3. to save the overall trip. The purpose of this low fidelity prototype was to see whether my ideas for the app are well excuted, or whether I should make some changes to it for better usability.
+
+https://github.com/vanathir/DH150_UXdesign/tree/master/Assignment6
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+This prototype of the traevl app showcases all the new features that I implemented. While the site itself is much simpler, it also has much more aesthetic quality, and the simple buttons make it easier for the user to understand how to navigate the site to get to where they want to go. By making this prototype, I have a much better understanding of what is difficult of users to do because I came across similar problems when I myself was testing the protoype. I built this prototype using Figma, and designed everything from scratch.
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+![Screen Shot 2020-03-03 at 1 24 26 AM](https://user-images.githubusercontent.com/59623119/75761968-d2fd2a00-5cee-11ea-9d94-8a8713cab336.png)
+Link to high fidelity prototype for you to try: https://www.figma.com/proto/48r7UZWlGNchT5zgFuzHR3/EasyTravel?node-id=5%3A2&scaling=scale-down
 
 ## Pitch video 
 
 ## Conclusion: what did you learn throughout the process?
+Throughout this process, I learned how difficult it is to make a website that caters to the needs of users, especially in the travel community. There are so many things to make note of, such as ensuring that hotels are accounted for, food, flights, and more. It is difficult to ensure that you are also accounting for the wide range of people that will be using your website, and so, this is why it is important to ensure that you are conducting usability tests and research so that you can cater to everyone, or at least your target audience. In going through the low fidelity and high fidelity prototypes, I learned how to use Figma and saw that my origina prototype actually did not do a good job of capturing everything that it had to. And so, with my high fidelity prototype, I had to add a lot of features to make sure that the site was as easy to use as possible. 
