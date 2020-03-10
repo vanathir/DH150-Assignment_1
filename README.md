@@ -8,6 +8,7 @@ EasyTravel is a travel application that makes it easy for users of all backgroun
 I would like for this mobil application to contribute to the travel community in a positive way. While the individual will be planning their trip, the application will have available hotels, food, to do activities and flights ready so that users can access them quickly and plan a trip quickly. In addition, they will not have to spend outside time researching on what the best deals are because the website will cater to their interests as they use the site more and more. By combining aesthetic importance with efficiency, users will be sure to leave this app satisfied and with a great trip planned. 
 
 ## Competitor analysis [assignment01 & 02]:
+### Heuristic Evaluation
 There are many sites today that are travel oriented but many are not efficient. So, I chose to focus on the travel community for this project, but more specifically on the travel website known as Contiki. I used Jakob Nielson's 10 usability heuristics for user interface design to identify the potential problems in the travel website. There are seven metrics of usability that should be used in the design of site, and they include: effectiveness, efficiency, satisfaction, learnability, memorability, usefulness, and accessibilty. With usability testing, I was trying to see if these metrics are met successfully by the site, and found that it was not. 
 
 I have provided a link below so that you can take a look at this process.
@@ -17,6 +18,11 @@ I have provided a link below so that you can take a look at this process.
 image01 | image02
 --------|--------
 [![](http://img.youtube.com/vi/gSEHZr2-jU4/0.jpg)](http://www.youtube.com/watch?v=gSEHZr2-jU4 "DH150: Contiki Usability Test") | ![Screen Shot 2020-01-13 at 10 18 44 PM](https://user-images.githubusercontent.com/59623119/72319001-bb8cb380-3652-11ea-905c-ef8d5cc6aced.png)
+
+### Usability Testing
+I conducted a usability test to see how efficient how a current travel website is. My participant was my roommate who is an avid travler. She enjoys planning trips and organization, and so I thought she would be the perfect person to observe for this particular topic. I had her perform 3 tasks: Task 1 involved fining a preplanned trip to Africa, Task 2 involved learning more Contiki's mission, and Task 3 involved group bookings. She was not able to complete all the tasks and was quite frustrated throughout the process, which showed me there was a lot to be changed in the website. Here is a link:
+
+https://github.com/vanathir/DH150_UXdesign/tree/master/Assignment4
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment foler
